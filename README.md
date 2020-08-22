@@ -16,6 +16,4 @@ that you will be able to edit at your convenience (edit vimwiki default styles..
 You can add more wiki configurations in your vimwiki_list if you wish.
 In case you don't want auto_export (upon save), you can execute manually
 :Vimwiki2HTML
-
-
-
+Generated wiki pages in directory with same name with '_html' as postfix
