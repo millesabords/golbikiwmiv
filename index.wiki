@@ -1,10 +1,25 @@
-= a way of learning mandarin chinese =
+ ===== Stuff for the covid year {{https://www.vim.org/images/vim_on_fire.gif|Cool stuff}} =====
 
-This blog's purpose is to commit to and keep a trace of my progression in the journey to learn how to speak mandarin chinese, as well as how to read and write simplified chinese.
 
-All ideas here are inspired from other people's methods and their returns on experience, making a mixture of them.
+= Vim stuff. Vim is good for you =
+The framework used for writing and maintaining this 'blog' is [[https://vimwiki.github.io/|vimwiki]]
+It is a Vim plugin that helps writing in markup/markdown style syntax. It ships with a "convert to html" engine, very simply. <br>You should give it try.
 
-The framework used for writing and maintaining this 'blog' is [[https://vimwiki.github.io/|vimwiki]], 
-Which is a Vim plugin that helps writing markdown-style syntax, and ships with a "mardkown to html" engine. It is simple. You should give it try.
+%%{{|cool stuff|class="myimage1"}}
 
-Have a look on my feedback page on how to learn chinese efficiently [[vocabularylists.wiki|here]].
+    To come: a lot of things to write here about vim. TODO
+
+= A way of learning mandarin chinese =
+This post contains a combination of ideas inspired by other people's methods and their returns on experience, and mines.
+Here is the link: [[vocabularylists.wiki|methodstolearnchinese]].
+
+    To come: a corner to keey trace of my own progress in the journey to learning chinese. TODO
+
+= Example of a Unity beginner's project =
+As this piece of unplayable game will show you, I am not a video game developer.
+But Even following a short tutorial such as this one can help you create something that you can be proud of, and can give you an idea of what creating a game looks like, how long and hard it can be, but most of all how much fun it is to create.
+Here is the link to the tutorial I followed, as a total beginner, it takes around an afternoon to complete:
+[[https://gamedevacademy.org/wp-content/uploads/2018/04/Learn-Unity-by-Creating-a-3D-Multi-Level-Platformer-Game.pdf|unityBeginnerTutorial]]
+
+You can of course pick a more complete or updated tutorial that you will easily find on internet.
+And here is the link to my version of the project: [[http://www.clercnet.com/unity]].
