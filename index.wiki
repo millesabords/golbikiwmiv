@@ -1,19 +1,11 @@
- ===== Stuff for the covid year {{https://www.vim.org/images/vim_on_fire.gif|Cool stuff}} =====
-
-
-= Vim stuff. Vim is good for you =
-The framework used for writing and maintaining this 'blog' is [[https://vimwiki.github.io/|vimwiki]]
-It is a Vim plugin that helps writing in markup/markdown style syntax. It ships with a "convert to html" engine, very simply. <br>You should give it try.
-
+`more stuff`
 %%{{|cool stuff|class="myimage1"}}
-
-    To come: a lot of things to write here about vim. TODO
+%%{{{ awesome }}}
 
 = A way of learning mandarin chinese =
 This post contains a combination of ideas inspired by other people's methods and their returns on experience, and mines.
 Here is the link: [[vocabularylists.wiki|methodstolearnchinese]].
 
-    To come: a corner to keey trace of my own progress in the journey to learning chinese. TODO
 
 = Example of a Unity beginner's project =
 As this piece of unplayable game will show you, I am not a video game developer.
@@ -22,4 +14,11 @@ Here is the link to the tutorial I followed, as a total beginner, it takes aroun
 [[https://gamedevacademy.org/wp-content/uploads/2018/04/Learn-Unity-by-Creating-a-3D-Multi-Level-Platformer-Game.pdf|unityBeginnerTutorial]]
 
 You can of course pick a more complete or updated tutorial that you will easily find on internet.
-And here is the link to my version of the project: [[http://www.clercnet.com/unity]].
+And here is the link to my version of the project: [[./clercnet_unityTuto/index.html|unityTutorialImplExample]].
+
+<br>
+<br>
+<br>
+<hr>
+
+{{https://www.vim.org/images/vim_on_fire.gif|Cool stuff}} Wiki pages written using [[https://vimwiki.github.io/|vimwiki]] plugin, a simple vim plugin that helps you write your text-based pages, using markup to html conversion. 

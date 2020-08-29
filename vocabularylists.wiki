@@ -1,92 +1,102 @@
-= This is some feedback on how to learn chinese =
-{{{
-My current level is between hsk2 and hsk3, after one year of study.
+`Some feedback on how to learn chinese`
+
+<br>
+{{{class="encartade"
+Considering simplified mandarin chinese, including written hanzi.
+My current level is between hsk2 and hsk3, after more than a year of study.
 I'm a self learner, and also a slow learner which is precisely why I'm looking for efficiency.
-Nothing replaces real classroom courses, and having a good chinese teacher on the long term. So these advices should be considered as extra work, only after you've finished your homework.
-I'm considering learning simplified mandarin chinese, including writen han zi.
+Of course, nothing replaces real classroom courses, the methods suggested here are just complementary.
 }}}
 
 === Methods diversification ===
-The first method to apply, just like for financial asset management (let's consider your personnal knowledge in a particular domain an asset) is as simple as diversification. You don't need to change your learning method every week, but adding variation in the way you learn, at least sometimes, can keep you up motivated and, can be used to verify your progress or even verify that you are not using the wrong method. And if you picked-up the wrong method (what I personnally present to you as good method may in fach not be adapted to you), you will consider changing it soon enough, so that you didn't spend too much time on it (even if it is not time lost).
+The first method to apply, just like for financial asset management (after all, your language skills are assets), is simply diversification. You don't need to change methods all the time, but in order to verify your progress or verify that you are not doing things wrong, you have to consider changing methods from time to time. Some of the methods I suggested here may not be adapted to you for the moment, or not at all.
 
 === Your memory needs context ===
-[[https://www.tutormandarin.net/en/hsk-3-full-word-list-excel-sheet-and-pdf-download/| These listings]] are, in my opinion, some of the best resource to be found on the internet. These are vocabulary lists, mixed with a lot of background sentences as concrete direct examples.
+[[https://www.tutormandarin.net/en/hsk-3-full-word-list-excel-sheet-and-pdf-download/| These listings]] are, in my opinion, some of the best resources you can find on the web in that area. Those lists mix words with a lot of background sentences to be used as concrete use-cases.
 
-I personnally use this on a daily basis. You will certainly notice that the characters you have practiced inside at least one of those sentences will be memorized much faster and with more durability (compared to reading and re-reading materials only composed of single raw words).
-Of course, the ideal workflow would consider studying the word alone, and only then studying sentences making concrete use of it -> double gratification combo.
-But it's hard to keep track of those words that you have "completed" and those you know only from written pinyin or by pronunciation alone or vice-versa. In the first place, this probably might be one of the reasons why standardized HSK levels do exist (outside of punishment).
+I personnally use this on a daily basis. Learning vocabulary this way helps memorize faster, and it is fixed in your memory with better durability (knowing in what context are used words greatly helps remembering them).
+You should get used to first study the words so that you get familiar with them, and then study use-cases of those words in sentences, this is really good for your progress.
+Now, the problem is that it's hard to keep a of everything: there are words you know by heart, but you never saw them used in a sentence... This is probably one of the reasons why standardized HSK levels exist (apart from punishment).
 
 === Hand-written style characters, instead of plain numeric style hanzi ===
-[[https://skritter.com/vocablists/view/6010122894180352|These other listings]] will introduce you to useful words that are missing in standard hsk lists. The added value here is not the selection of words, which are implicitely deducible from official listings anyway, but more the way those characters are presented: the police used is much more pleasant than the usual computer representation. Btw, skritter is a good tool among many others, that includes an OCR to be able to write hanzi on your tablet and have direct feedback. Wether you should use it or not is up to you. Just don't spend to much time choosing and changing tools, like a web-developper always on the hype.
+* [[https://skritter.com/vocablists/view/6010122894180352|skritter listings]] check out the selection of words here. Plus, the way they are presented: the police used is much more pleasant than the usual computer representation. Skritter is a good tool among many others, that includes an OCR to be able to write hanzi on your tablet and have direct feedback. Wether you should use it or not is up to you. Just don't spend to much time choosing/changing tools.
+* [[https://www.pleco.com/|Pleco]]: very nice app to have on your smartphone that is used as a really fast dictionnary for pinyin, oral, strokes based, OCR based (you draw on screen the character you are looking for) or even from the english version. This helps me a lot everytime I'm unsure of a character representation or translation.
+
+=== It's always valuable ===
+Choosing the wrong method or learning the wrong words happens from time to time. Whatever happens, you are not wasting your time. You make mistakes, you make progress.
 
 === Checking your advancement on a hsk list ===
-[[https://hsk.academy/en/hsk_4|Example of a standard list]], which is not convenient for training, but can be interesting to check your current level at written chinese. Considering you use a pen and, no cheating.
-The painful truth is that you are not as advanced as you thought you were.
+[[https://hsk.academy/en/hsk_4|Example of a standard list]]. This is not convenient for training. However, it may be used to check your current level.
 
-For a more complete way of testing your level, you can take full test such as one that is presented [[https://www.blog.thatsmandarin.com/hsk-level-2-hsk-test-download/|here]] but this is a little bit overkill...
+For a more official way of asserting your level, you can take full tests such as the one that is presented [[https://www.blog.thatsmandarin.com/hsk-level-2-hsk-test-download/|here]] but this is a little bit overkill...
 
 === podcasts ===
 Such as [[https://www.youtube.com/c/chineseclass101|chineseclass101]]
-Practicing your oral comprehension on a regular basis is quite important. There are a lot of other audio/video podcast out there, and alternating your practice with improving your oral skills (listenning comprehension and speaking ability), especially on the beginning where you have to integrate the nuances of the tones.
+Practicing your oral comprehension on a regular basis is quite important. There are a lot of audio/video podcast out there. The pronunciation and the differences between the tones is an essential part of your training, especially on the beginning.
 
-=== The problem with Anki and flashcards reader apps ===
-[[https://apps.ankiweb.net/|Anki for linux]]
-* The trap of the pre-made deck: like for most new users (including myself), you will be tempted in using lists (or "decks", in this case) that you can easily find. After using other people's decks (even great ones) for hours, you will come to notice that most words that come out are not the ones YOU need, and this lack of personification quickly becomes frustrating and make you lose precious time (frustration with so few chances of gratification/progress on the long term -> avoid doing that). Modifying the decks may present itself as a safe solution, unfortunately it is a hard process and comes at a cost. Whatsoever, I still encourage you to create and modify your own decks (must be done on a regular basis), since it brings good incentives. So that's why in my opinion: when using a flashcard reader app such as Anki, you must go all in, and create your decks right from the start, and updating them regularly, or not use it at all.
-* All free of access chinese/english decks that you will find are presented using hanzi/pinyin notation first (english translation comes next as an answer), which is far less productive than the contrary: whatever tool I'm using, I want to have english (or my native language) in front of me and try to translate it into target language, not the contrary. I hope that's also what you want. Almost all the decks provide you with the answer instead of the questions, which is against the basic logic of exercicing, whatever the discipline. Or, you could as well reverse the way flashcards are presented to you in an automated manner. Which I also tried. You have first to find a good anki client app that features such functionnality (...) and when you do, the result will not be as expected (wrong mixture of police, size, half of the answer already printed at guess time (pinyin or oral pronunciation) etc...
-* All that said, I still recommand you to at least give anki a try, at least on the beginning (for hsk1 or something like that) so that you experiment the power of spaced-repetition (and all the perpetual adjustment that it requires). Just don't use pre-made cards decks that you can find for free on the long run, you will lose too much of your time studying characters that you already know, and won't spend enough time on those that you should be insisting on. I personnally prefer writing down on real sheets of paper, this makes me also learn the calligraphy more efficiently than anki does. For those who don't intend on learning written chinese, anki might be the best tool though.
+=== The problem with Anki and flashcard reader apps ===
+[[https://apps.ankiweb.net/|Anki]]
+* The trap of the pre-compiled deck: like for most new users (including myself), you will be tempted by using lists of cards (or "decks", in this case) that other people have already created for you. After hours of using those, you will notice that most words that come out are not the ones that you specifically need, and this lack of personification quickly becomes frustrating (there is the risk that you will lose time studying characters that you already know, and won't spend enough time on those that you should be insisting on). As a solution, you may find the idea of creating/modifying the decks yourself a good idea. Unfortunately, it is a rather hard process and comes at a cost (especially on the long term). You can go for it, but you must be aware of what extra work this will require on a regular basis.
+* All free of access chinese-english decks that you will find are presented using hanzi+pinyin notation first, and then show the english translation as an answer. Which, you will agree, is far less productive than the contrary. It's like providing all the answers to the exercices before even giving you the problem statement. Again, what you can do as a workaround is to reverse the flashcards presentations.
+	* You have the option of finding a good anki client app that features such functionnality. Not all of them propose this functionnality, and when they do, it is not fine-tuned enough: english and pinyin mixed within the same page, wrong police, what happens to oral extracts...
+	* Or you can automate this process outside of any client tool, using python scripting for example. There is surely already a lot of python scripts for the purpose of customized flash-cards management, that can help you start your own.
+	* One of my todo projects (that I will probably never implement) consists in porting a deck reader client app on an e-ink device (ereader or eink cellphone or any type of eink compatible device we will have in the the future), this should be amazing. But between doing this and customizing the decks honestly, I prefer to spend time on learning chinese.
 
-To sum up, free of access pre-compiled decks is a trap, because it is not your choice of words, and because they are not presented as you wish they were, and that won't be the case until you decide to manage your own ones, which is a considerable investment of value-time. If you want to use anki and its real potential, make it yours, or don't use it at all.
+All that said, I still recommand you to give anki a try, at least on the beginning. It is a great tool and spaced-repetition is a very efficient method (when properly executed).
 
-One of my todo projects (that I will never implement) consists in building python scripts that would automate all of these processes outside of any decks management app, in an easy and efficient way. I also would like to be able to port a deck reader client app on an e-ink device (ereader or eink cellphone or any suitable eink device of the futur), this would be amazing. But doing this and that, plus creating and updating my own decks, well... I prefer to spend time on learning chinese rather than on learning flashcard apps and ereader system that are not developer friendly enough for the moment.
 
 === Books, eBooks and the sheet of paper ===
-* Ebooks: lists, cheatsheets as pdfs to put on your ereader (including those that you wrote and scanned yourself). I am almost never going anywhere without my eink reader. Buy one. Yes, even just for learning chinese.
-* Books: useful for grammar, especially on the beginning. Here you can also find a lot of background context to fix your vocabulary once and for all. It also contain some exercices, which can be fun to do.
-* Paper: it is really important that you write your own lists. At least translation, pinyin and simplified chinese. Again, except if you don't intend on learning written chinese.
+* Books: useful for grammar, especially on the beginning. Also for background context to fix your vocabulary once and for all (and also good old exercices)
+* Ebooks: put in your pocket, study everywhere, anytime. Upload your pdfs files that contain all the necessary material: wether its official lists of vocabulary or your own lists (typed, scanned or whatever). I am almost never going anywhere without my device.
+* Paper: writing your own lists. Even better than the ereader, because it is lighter, consumes less battery, and is even more convenient in your pockets. Plus, this requires that you write the characters yourself, which is mandatory in order to improve your hanzi. Last but not least, the selection of vocabulary is much more personified, so that you review only what you need, thus optimizing your study time.
 
-=== Insisting on the sheet of paper ===
-As is explained above, you should write down your vocabulary yourself. Don't be exclusive with books or ebooks only. Take the best of both worlds: be capitalist and a communist at the same time. Not only writing is required to improve your hanzi, but also it is a very good way to be able to bring your chinese everywhere you go: you can put the few pages you wrote inside of your back pocket or inside of your wallet, and have a look at it at any time (on your way to the office, if you take the bus or the subway).
-My ereader device fits in most of my pockets, but I favor the convenient sheet of paper, which is even fitter, lighter, consumes no battery, and best of all: it is entirely personified: it keeps only the words I need! This is my personal prefered method.
+=== radicals \ 部首 \ bùshǒu ===
+They help a lot in many situations:
+* looking up in a chinese dictionnary
+* typing on a chinese keyboard (I don't do it myself, but hope I'll be able to one day)
+* guessing the meaning of characters you don't know yet or simply don't fully remember (happens all the time)
+* *learning vocabulary much faster* ...just like learning on steroid
+* extra combo bonus: this could help you learn japanese, in case that's what you plan to do (the same way learning latin helps you learn french and italian)
 
-=== Radicals \ 部首 \ bùshǒu ===
-Used to understand things. Helps a lot in many situations: searching in a chinese dictionnary, typing on a chinese keyboard, guessing the meaning of characters you don't know yet, or simply don't fully remember (happens all the time), and last but not least: *learning vocabulary much faster* ...just like good hydratation, good breathing, fresh fruits in the morning make your life simply work.
-Extra combo bonus: this could also help you learn japanese, in case that's what you plan to do. The exact same way learning latin helps you learn french and italian.
-Careful though, I noticed that there is a lot of discrepency between the different listings you will find on the internet: the listings don't contain the same number of elements, and somentimes they totally disagree with the meanings or with the accents...
-You don't need to start learning all radicals right away, they would be too much frustration and not enough gratification. Just mind that you have to know them (the sooner the better). And they are easy.
+Be careful though, as I noticed there was a lot of discrepency between all the different listings you will find on the web: they either don't contain the same number of elements, are not on the same line about the use of tones sometimes, and it even happens that they simply disagree with the meanings
+Nevertheless, knowing the radicals soon enough will make you save precious time on the long run.
 
-=== Classrooms ! ===
-Train to speak, learn grammar, build a network of friends that share your interest in learning chinese and assuredly many other things. It's just that it is not sufficient by itself: 2 or 4 hours a class every week and the homework that goes with it is not enough. It has to be part of your training at some points (especially the beginning) but most of the work will have to be done as a self-learner. Well, except of course if you are in for full courses at university to study chinese 24/7 which is the best solution of them all.
+=== classrooms ===
+* train to speak
+* to listen (and this is not trivial)
+* to learn grammar
+* to build a network of friends that share your interest in learning chinese and assuredly many other things.
+* but it's not sufficient by itself: 2 or 4 hours a class every week and the homework that goes with it is not enough (this does not apply of course, if your are young enough to be in school or in university). Even though it has to be part of your training at some points (especially the beginning), most of the work will have to be done as a self-learner. 
 
-=== Studies ===
-Speaking of studying chinese at university, I think going to study abroad if you have the opportunity to do so is one of the best decisions of your life. I wish I did it, I really wish.
-
+=== studies ===
+Speaking of studying chinese at university, i think going to study abroad if you have the opportunity to do so is one of the best decisions of your life. i wish i did it, i really wish.
 It is, however, still possible to make study trips for a few weeks or for a few months if you are not in your student years anymore.
 
-=== Going out ===
-One might think that having a chinese girlfriend/boyfriend is the best way to learn chinese effectively. In my short experience, that's not the case (but for some it is, though...).
-Nevertheless, going out with chinese speaking friends sometimes is a very good idea. The most important point here is that this will remind you why you learn chinese, and keep you highly motivated.
+=== going out ===
+One might think that having a chinese girlfriend/boyfriend is the best way to learn chinese effectively. in my short experience, that's not the case (but for some it is, though...).
+Nevertheless, going out with chinese speaking friends sometimes is a very good idea. But not even for training: just to be reminded why you learn chinese, this will keep you highly motivated.
 
-=== Travels ! ===
-Wether for living or just for holiday, the reason is obvious. At least, so that you know/be-reminded why you are learning the language. Don't hesitate to do so, China is one of the best places in the world to go and to live, and one trip is not enough.
+=== travels ===
+Wether for living or just for holiday, the reason is obvious. This immediately remind you why you started learning in the first place! Don't hesitate to do so, China is one of the best places in the world to go and to live, and one trip will never be enough.
 
 === One week routine example ===
 Let me present to you a routine I follow in a typical week of learning:
-* Take your favorite memorization technique (mine would be "I know kung-fu" from the matrix movie) which can be using a spaced-memorization tool or using the good old page of tranlsated word you have made. Make the guesses until completion, and do it again and again in different orders if you can.
-* Let's now place them into context, using for example the resource link at [[#Your memory needs context|Your memory needs context]] which I think is the natural next step. It has also to be done several times each, but unlike for the words, it should not be learned by heart. The purpose is not to be able to repeat sentences in real world situations, but more to give context to the words you already know, so that you understand the nuances (ie when to use "pao bu" or when to prefer using "pao yi pao" that sort of things). Since Chinese is a contextual language, reading and re-reading bare words without any examples of use in real sentences is almost a loss of time: at some point, you need to study the implementation of the word in a context instance.
-* Switch to oral comprehension skills training. By using any ressource you can find out there, free or not. It is important to do this on a regular basis. Go progressively and don't try to understand chinese movies right away. Go to a chinese course or listen to podcasts or both.
-* The routine must be daily. Being efficient in learning a language (and let's be honest, as is everything that you really wants to succeed in) is to work everyday. Every single day. But just like when you go to the gym, overworking is one of your worst ennemies. Its really ok if you worked for 5 minutes today, just make it more the day after. The methods can't help you here, neither can any tool or course support. If you can't find time to work at least 6 times a week (one excuse a week allowed max), then don't consider doing something as demanding as learning chinese.
-* Avoid routine traps. If you are used to review your vocabulary in the subway while going to work, you will eventually miss your training the days where, for any reason, you didn't take the subway. It occured to me that I had too much associated reviewing and commuting. That's the reason why, occasionnally on end of the week days, I miss my training. Or it could also be an overdose of using too much the same method: as we saw in [[#Methods diversification|Methods diversification]], If this happens, don't hesitate to change the type of your exercice, or to change your target for the week. 
+* Take your favorite memorization technique (I know you are thinking about "I know kung-fu" from the matrix movie, and I'm thinking about Elon Musk's Neuralink, which makes me wonder if we are so far from it...) which can be using a spaced-memorization tool or using the good old page of tranlsated word you have made or whatever. Make the guesses until completion, and do it again and again in different orders if you can.
+* Let's now place them into context, using for example the resource link in previous section [[#Your memory needs context|Your memory needs context]], which I think is the natural next step. It has also to be done several times each, but unlike for the words, it should not be learned by heart. The purpose is not to be able to repeat sentences in real world situations, but more to give context to the words you already know, so that you understand the nuances (ie when to use "pao bu" or when to prefer using "pao yi pao" that sort of things).
+* Switch to oral comprehension skills training. By using any ressource, free or not. It is important to do this on a regular basis. Go progressively and don't try to understand chinese movies right from the start. Go to a chinese course or listen to podcasts or both.
+* This is a daily routine. Being efficient in learning a language (and let's be honest, as is for everything where you want to succeed in) is to work everyday. Don't overwork, though: it's really ok if you have just worked for 5 minutes today. Simply make it more the next day. The methods can't help you here, neither can any tool or course. If you can't find time to work at least 6 times a week (one excuse a week allowed max), then don't consider doing something as demanding as learning chinese.
+* Avoid routine traps. If you are used to review your vocabulary in the subway while going to work, you will eventually miss your training the days when, for any reason, you didn't take the subway. It occured to me that I had too much associated reviewing and commuting. That's the reason why I occasionnally missed my training on a few occasions. Or it could also be an overdose of using too much the same method: as we saw in [[#Methods diversification|Methods diversification]]. If this happens, don't hesitate to change the type of your exercice, or to change your target for your week. 
 
 === My ideas for finding motivation ===
-When it happens to me (it does indeed), you don't need to force yourself into the books, as it simply won't work.
-* You think you don't need to review your hsk2 list? then have a quick test online, and realize how wrong you were after a few questions. And even if you performed well, here is the next lesson, what are you waiting for?
-* If you have someone to report your progress to, or better, if you have someone to compete with, have him/her say what progress he made on a particular topic, and have him say how disappointing you are right now. Take it and drink it.
-Wether its true or false is not the point, it's about creating a frustration for you about yourself, and force you to turn it up as a positive and creative energy: sometimes, we all need to get our ass kicked (remember this famous "Shame" episode from the tv show "A game of thrones"?).
-* Your wife is chinese, and so your children will speak native english in 2 to 3 years. Shame on you if you are not proficient in chinese until then!
-* You're an expat. Don't let yourself read this any further, you already know that being able to speak chinese is fully required. Knowing this, people will have more expectation on you. For you, this is not a "nice to have", this is mandatory.
-* Commit yourself. Tell everyone that you have started to learn chinese. So that now, you don't have a choice anymore, unless you want people to be disappointed: choose the person you want to be: do you consider yourself as a free will, or do you believe in determinism? do you feed on the red pills or on the blue pills?
-* Stop pretending you have the laundry or other important duties. This is not the truth. These are yet other means to escape your real task. "Remember the cave, Luke" (The ennemy is not in front of you, it is you). Okay, time to stop the quotes.
-* Of course if you come to lack motivation too often, then it probably means that learning chinese is simply not your thing. As a last resort, and if you are savy on your money expanses, what you can do is to pay for a good chinese class for the entire year, in a full fare premium price (only if you are an adult who assumes his responsibilities).
+* If you have someone to compete with: look at what progress he made on a particular topic, and you didn't. what will he say when he realizes this? aren't you ashamed? what are you going to do about this?
+* Commit yourself. Tell everyone that you have started to learn chinese. So that now, you don't have a choice anymore, unless you want people to be disappointed. You think you don't need to review your hsk2 list? then have a quick test online, and realize how weak you are after a few questions. How guilty do you feel?
+* Do you believe in free will or do you believe in determinism (the red or the blue pill) ? Normally, the answer should be obvious, especially for somebody who is learn chinese seriously.
+* Your wife is chinese, and so your children will speak native english in 2 to 3 years. If you want to be able to understand what your own children are saying, you know what to do.
+* You're an expat (living in China). Don't let yourself read this any further, you already know that being able to speak chinese is not a "nice to have", it is mandatory. Plus, this marked on your resume, people will have more expectation on you. 
+* Stop pretending you have the laundry or other important duties. This is not the truth. These are yet other means to try to escape from your real task. The work you have to do is not in front of you, it is inside of you (remember the cave, Luke)
+* Of course if you come to lack motivation too often, then it probably means that learning chinese is simply not your thing. As a last resort, what you can do is to pay for a good chinese class for the entire year, like paying a premium price for full fare course, this way you have no choice left, unless you are ok with throwing all this money into garbage (you will never be good at poker until you play for real money).
+
+
 %%{{|uesnahotn|style="text-align:center"}}
 %%  *bold text*
 %%  _italic text_
